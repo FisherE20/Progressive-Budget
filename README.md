@@ -2,7 +2,7 @@
 
 ![Project Image](project-image-url)
 
->Short Project Blurb
+>Budgeting on the go!
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ## Description
-What is this project about. Who is the User? What is the purpose of this application? 
+AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling 
 
 #### Technologies
 

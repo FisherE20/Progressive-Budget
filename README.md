@@ -1,4 +1,4 @@
-# Project Name
+# Progressive-Budget
 
 ![Project Image](project-image-url)
 
@@ -21,8 +21,10 @@ What is this project about. Who is the User? What is the purpose of this applica
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Express
+- MongoDB
+- Manifest
+- Service-Worker
 
 ---
 
@@ -33,32 +35,32 @@ What is this project about. Who is the User? What is the purpose of this applica
 
 
 #### API Reference
+None
 
-```html
-    <p>dummy code</p>
-```
-[Back To The Top](#project-name)
+[Back To The Top](#progressive-budget)
 
 ---
 
 ## References
-[Back To The Top](#project-name)
+- Heroku - [Heroku](url)
+
+[Back To The Top](#progressive-budget)
 
 ---
 
 ## License
 
-MIT License
+
 
 Copyright(c) [2020] [Erin K Fisher]
 
-[Back To The Top](#project-name)
+[Back To The Top](#progressive-budget)
 
 ---
 
 ## Author Info
 
-- GitHub - [userName](url)
-- Website - [userName](url) 
+- GitHub - [FisherE20](https://github.com/FisherE20/Progressive-Budget)
+- Website - [FisherE20](https://fishere20.github.io/Responsive-Portfolio/) 
 
-[Back To The Top](#project-name)
+[Back To The Top](#progressive-budget)

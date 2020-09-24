@@ -1,6 +1,6 @@
 # Progressive-Budget
 
-![Project Image](project-image-url)
+![Project Image](./public/images/Budget.png)
 
 >Budgeting on the go!
 
@@ -42,7 +42,7 @@ None
 ---
 
 ## References
-- Heroku - [Heroku](url)
+- Heroku - [Heroku](https://warm-woodland-58171.herokuapp.com/)
 
 [Back To The Top](#progressive-budget)
 
